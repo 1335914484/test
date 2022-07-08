@@ -1,0 +1,11 @@
+本驱动里的setup.exe只适用于USB连接方式连接，
+
+更多安装方法详见：http://www.dyjqd.com/article/8959.html
+
+如安装失败请检查打印服务是否开启：http://www.dyjqd.com/article/6881.html
+
+装完驱动不能打印就看这里：http://www.dyjqd.com/article/13806.html
+
+查看系统是多少位的方法 http://www.dyjqd.com/article/267.html
+
+驱动安装后可能需要重新启动电脑，如不能打印请检查打印机与电脑的连接及打印机的端口号（USB连接的端口为USB00x如果不是请修改，）有问题可以点击下载地址下方的错误报告，通过错误报告页的在线QQ联系我们。
